@@ -1,0 +1,16 @@
+.Contador{
+   color: aliceblue;
+min-height: 230px;
+height: 270px;
+font-size: 140px;
+padding: 80px;
+display: flex;
+justify-content: center;
+align-items: center;
+border: 8px solid white;
+margin-bottom: 2rem;
+background: black;
+border-radius: 30px;
+
+}
+

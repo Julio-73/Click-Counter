@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  background: linear-gradient(to right, rgba(244, 12, 12, 0.852), rgb(4, 4, 103));
+}
+
+.App {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding-top: 1rem;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.Call-of-duty {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 60px;
+}
+
+.Call-logo {
+  width: 300px;
+}
+
+.contenedor-principal {
+  height: 550px;
+  min-height: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 7rem;
+}
